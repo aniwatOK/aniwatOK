@@ -1,6 +1,13 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi, I'am MeMix | Junior Developer @ALL 
 
-<h3 align="left">Connect with me:</h3>
+  🐥 The tech-curious duck on a journey.
+  
+  Passionate about Front-end, DevOps, and GameDev, but I don't believe in limits. I'm a versatile learner ready to adapt to any IT role and explore every corner of Computer Science.
+
+🌈 “Jack of all trades, master of learning.”
+📫 Let's connect & build the future together!
+
+<h3 align="left">Connect with me: Aniwat.nongkhai@gmail.com</h3>
 <p align="left">
 </p>
 
