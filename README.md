@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'am MeMix | Junior Developer @ALL 
+<h3 align="center">Hi, I'am MeMix | Junior Developer 
 
   🐥 The tech-curious duck on a journey.
   
