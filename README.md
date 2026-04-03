@@ -1,11 +1,9 @@
-<h3 align="center">Hi, I'am MeMix | Junior Developer 
-
-  🐥 The tech-curious duck on a journey.
-  
-  Passionate about Front-end, DevOps, and GameDev, but I don't believe in limits. I'm a versatile learner ready to adapt to any IT role and explore every corner of Computer Science.
-
-🌈 “Jack of all trades, master of learning.”
-📫 Let's connect & build the future together!
+<h3 align="center">Hi, I'm MeMix | A Learner at Heart & Versatile Developer 🚀</h3>
+<p></p>
+<p align="center"> I recently graduated in Computer and Information Science (GPA 3.55) with a curiosity that knows no bounds. My journey has taken me through Front-end, DevOps, and Game Dev—not as an expert, but as a dedicated student of the craft. </p>
+<p align="left">🛠️ Growth-Oriented: I believe in building a solid foundation while staying flexible. I may not know everything yet, but I am committed to learning rapidly and contributing my best to every task. </p>
+<p align="left">💡 Philosophy: "Always a student, always adapting."</p>
+<p align="left">📫 I’m eager to learn from a mentor, grow with a team, and build something meaningful together! </p>
 
 <h3 align="left">Connect with me: Aniwat.nongkhai@gmail.com</h3>
 <p align="left">
