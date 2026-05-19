@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm MeMix | A Learner at Heart & Versatile Developer 🚀</h3>
+<h3 align="center">Hi, I'm MeMix | A Learner at Heart & Junior Developer 🚀</h3>
 <p></p>
 <p align="center"> I recently graduated in Computer and Information Science (GPA 3.56) with a curiosity that knows no bounds. My journey has taken me through Front-end, DevOps, and Game Dev—not as an expert, but as a dedicated student of the craft. </p>
 <p align="left">🛠️ Growth-Oriented: I believe in building a solid foundation while staying flexible. I may not know everything yet, but I am committed to learning rapidly and contributing my best to every task. </p>
